@@ -69,8 +69,8 @@ The client will ask for:
 - If a message is invalid or from a non-allowed port, appropriate error messages are sent.
 - Ensure the port numbers and message formats are correct for successful communication.
 ## Group Members:
-Feride Betül Çuhadar
-İrem Sıla Madenli 
-Doğa Durmaz 
+- Feride Betül Çuhadar
+- İrem Sıla Madenli 
+- Doğa Durmaz 
 
 
